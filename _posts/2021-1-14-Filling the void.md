@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Filling the void..
+title: Filling the void
 published: true
 ---
 Looking out of the window, on a moody January morning, it is hard to tell how I got here. It is 2021, and it seems the hopes for a better 2021 have not started to bear fruit, with the pandemic raging more than ever, outisde in the world. Infections and deaths are up, many countries hitting record highs, eclipsing the first wave figures. But life has to go on. We live day by day. 
